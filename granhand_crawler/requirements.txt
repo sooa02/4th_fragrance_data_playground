@@ -1,0 +1,2 @@
+# 그랑핸드 향수 크롤러
+scrapling[fetchers]
